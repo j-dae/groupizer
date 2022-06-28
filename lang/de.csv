@@ -1,0 +1,350 @@
+accessRole;Zugriffsrolle >=
+account;Konto
+accountClosed;Ihr Konto wurde geschlossen.
+accountCreated;Ihr Konto wurde erzeugt. Sie können sich jetzt <a href='/login'>anmelden</a>.
+accountData;Kontodaten
+accountNotCreated;Ihr Konto konnte nicht erzeugt werden.
+add;Hinzufügen
+addMembers;Mitglieder hinzufügen
+address;Adresse
+admin;Admin
+agenda;Agenda
+agendaEntries;Agendaeinträge
+agendaEntry;Agendaeintrag
+agendaList;Agendaliste
+album;Album
+albumDeleted;Das Album wurde gelöscht.
+albumName;Albumname
+albumNotDeleted;Das Album konnte nicht gelöscht werden.
+albums;Alben
+all;Alle
+allEmailsOk;Der Post wurde per Email an alle angemeldeten Mitglieder gesendet.
+alreadyRegisteredForGroup;Sie sind bereits registriert für <i><b>{1}</b></i>.
+applicationServer;Applikationsserver
+attachAfterSave;Anhänge können erst nach der ersten Speicherung hinzugefügt werden.
+attachFile;Datei verlinken
+author;Autor
+authorContents;Autoreninhalte
+basedOnUserLanguage;Gemäss Benutzersprache
+birthday;Geburtsdatum
+calendar;Kalender
+calendarLocalization;Gebietsschema für Kalender
+calendarLocalizationChanged;Das Gebietsschema des Kalenders wurde geändert zu: {1}
+cancel;Abbrechen
+categories;Kategorien
+categoriesNotSaved;Die Kategorien konnten nicht gespeichert werden.
+categoriesSaved;Die Kategorien wurden gespeichert.
+category;Kategorie
+change;Ändern
+changeAlbumName;Albumname ändern
+changeCalendarLocalization;Gebietsschema für Kalender ändern
+changeGroupName;Gruppenname ändern
+changePassword;Passwort ändern
+changeRole;Rolle ändern
+changesSaved;Die Änderungen wurden gespeichert.
+checkImgFile;Bitte prüfen Sie ob Ihre Datei eine korrekte Bilddatei ist.
+checkSpamFolder;Wenn die Meldung nicht in Ihrem Posteingang erscheint, prüfen Sie bitte Ihren Spam-Ordner.
+city;Ort
+closeAccount;Konto schliessen
+closeAccountError;Fehler: Das Konto konnte nicht geschlossen werden.
+closeAccountReason;Bitte sagen Sie uns den Grund für die Schliessung Ihres Kontos
+code;Code
+color;Farbe
+confirmCloseAccount;Wollen Sie Ihr Konto wirklich schliessen? Dieser Schritt kann nicht rückgängig gemacht werden.
+confirmDeleteAlbum;Wollen Sie das Album <b><i>{1}</i></b> wirklich löschen?
+confirmDeleteEntry;Wollen Sie den Eintrag <b><i>{1}</i></b> wirklich löschen?
+confirmDeleteEntryAllRec;Wollen Sie den Eintrag <b><i>{1}</i></b> und alle seine Wiederholungen wirklich löschen?
+confirmDeleteFile;Wollen Sie die Datei <b><i>{1}</i></b> wirklich löschen?
+confirmDeleteFolder;Wollen Sie den Ordner <b><i>{1}</i></b> wirklich löschen?
+confirmDeleteGroup;Wollen Sie die Gruppe <b><i>{1}</i></b> wirklich löschen?
+confirmDeleteImage;Wollen Sie das Bild <b><i>{1}</i></b> wirklich löschen?
+confirmDeleteMessage;Wollen Sie die Meldung vom <b><i>{1}</i></b> wirklich löschen?
+confirmDeletePost;Wollen Sie den Post <b><i>{1}</i></b> wirklich löschen?
+confirmQuitGroup;Wollen Sie diese Gruppe wirklich verlassen?
+confirmRemoveMember;Wollen Sie das Mitglied <b><i>{1}</i></b> wirklich entfernen?
+contact;Kontakt
+contactForm;Kontaktformular
+contactMessage;Meldung
+contentOwner;Inhaltsbesitzer
+contentTypes;Inhaltstypen
+continue;Weiter
+continued;Forts.
+cookiesAgreement;Durch das Absenden dieses Formulars akzeptieren Sie die Verwendung von <a href='https://www.allaboutcookies.org/ge' target='_blank'>Cookies</a>. Cookies werden nur verwendet, um eine Session zu ermöglichen und, falls gewünscht, um die nächste Anmeldung auf dem gleichen Gerät zu erleichtern.
+country;Land
+create;Erzeugen
+createAlbum;Ein neues Album erzeugen
+createGroup;Eine neue Gruppe erzeugen
+daily;Täglich
+date;Datum
+dateSpan;Datumsspanne
+daysPerPage;Tage pro Seite:
+dbSystem;Datenbanksystem
+defaultCategoriesList;,Ereignis, Aufgabe, Erinnerung
+delete;Löschen
+deleteAgendaEntry;Agendaeintrag löschen
+deleteAlbum;Album löschen
+deleteCategoryWarning;Achtung: Beim Löschen einer Kategorie werden auch alle Einträge dieser Kategorie gelöscht.
+deleted;Gelöscht
+deleteEntry;Eintrag löschen
+deleteFile;Datei löschen
+deleteFolder;Ordner löschen
+deleteGroup;Gruppe löschen
+deleteImage;Bild löschen
+deleteMessage;Meldung löschen
+deletePost;Post löschen
+demoAccountNotCreated;Das Demokonto konnte nicht erzeugt werden.
+demoLogin;Demologin
+descAgendaList;Die Agendaeinträge als Liste, welche auch undatierte Einträge enthält.
+descAlbums;Bilderalben die von den Autoren verwaltet werden. Miniaturansichten werden automatisch erzeugt. Grosse Bilder werden auf die Bildschirmgrösse verkleinert.
+descCalendar;Graphischer Kalender mit Monats-, Wochen- und Tagesansicht. Die Einträge können nach Kategorien gefiltert, und mit Drag und Drop verschoben werden.
+descContact;Kontaktformular für Anfragen und Support. Wir werden so schnell wie möglich antworten.
+descDemoLogin;Das Formular für ein Demologin. Ein temporäres Demokonto wird für Sie erzeugt.
+descError;Leider ist ein Fehler aufgetreten.
+descFiles;Verwaltung von Dateien und Dokumenten. Die Dateien können in Ordnern organisiert werden. Zugriffe können auf Grund der Benutzerrollen eingeschränkt werden.
+descGroup;Homepage der Gruppe: {1}. Dies ist der Ausgangspunkt für die Inhalte und Konfigurationen dieser Gruppe.
+descIndex;Organisation von Gruppen: Vereine, Teams, Klassen, etc. Mit Mitgliederverwaltung, Kalender, Posting-Funktion, Messenger, Dateiverwaltung, Alben, etc.
+descLanguage;Die Liste aller auswählbaren Sprachen des Benutzer-Interfaces.
+descLogin;Das Login-Formular für Ihr Konto. Geben Sie Ihre Email-Adresse und Ihr Passwort ein. Sie können für die nächste Sitzung eingeloggt bleiben.
+descMembers;Die Liste aller Gruppenmitglieder mit Suchoptionen. Administratoren können hier neue Mitglieder hinzufügen.
+descMessages;Der Messenger für die Kommunikation und Diskussionen in der Gruppe. Alle Meldungen sind für alle Gruppenmitglieder sichtbar.
+descNewAccount;Füllen Sie dieses Formular aus um Ihr persönliches Konto zu erzeugen. Sie müssen den menschenlesbaren Code eingeben für den SPAM-Schutzmechanismus.
+descOpenSource;{1} basiert auf Open Source Software: MariaDB, Tomcat Applikationsserver, Java Development Kit (JDK), FullCalendar, Jodit Editor.
+descPermissions;Einstellungen und Beschreibungen der Zugriffsberechtigungen für die Gruppe. Die Einstellungen können nur von Administratoren geändert werden.
+descPost;Der Text, die Bilder und Links eines einzelnen Posts.
+descPosts;Die Liste aller Posts, mit den Titeln, Autoren und den letzten Änderungszeiten.
+descPwRecovery;Sie können ein temporäres Passwort zu Ihrem Account hinzufügen, welches Ihnen per Email zugestellt wird, um das Hauptpasswort neu zu setzen.
+description;Beschreibung
+descTimeTable;Die Agendaeinträge als Zeitplan. Einträge über mehrere Tage werden in einzelne Einträge für jeden Tag aufgeteilt.
+downloadAll;Alle Herunterladen
+editor;Editor
+emailAddress;Emailadresse
+emailAlreadySignedup;Es existiert bereits ein Konto mit dieser Email-Adresse. Bitte benutzen Sie den Service <a href='/passwordRecovery'>Passwort wiederherstellen</a>.
+emailNotOk;Der Post konnte nicht an die Emailadresse <b><i>{1}</i></b> gesendet werden.
+emailsInvalid;Folgende Emailadressen sind ungültig:
+emailsNotOk;Der Post konnte nicht per Email gesendet werden.
+enableCookieSupport;Sie müssen die Cookie-Unterstützung Ihres Browsers aktivieren!
+enterCode;Bitte geben Sie den Code ein
+enterEmailAddress;Bitte geben Sie Ihre Email-Adresse ein.
+enterFirstName;Bitte geben Sie Ihren Vornamen ein.
+enterLastName;Bitte geben Sie Ihren Nachnamen ein.
+enterMessage;Bitte geben Sie Ihre Meldung ein.
+enterPassword;Bitte geben Sie ein Passwort ein.
+enterPwConfirmation;Bitte bestätigen Sie Ihr Passwort.
+entriesSaved;Der Eintrag und seine Wiederholungen wurden gespeichert.
+entryAllRecDeleted;Der Eintrag <b><i>{1}</i></b> und alle seine Wiederholungen wurden gelöscht.
+entryDeleted;Der Eintrag <b><i>{1}</i></b> wurde gelöscht.
+entrySaved;Der Eintrag wurde gespeichert.
+error;Fehler
+errorAddingMembers;Bei den folgenden Emailadressen ist ein Fehler aufgetreten:
+example;Beispiel
+exampleGroup;Beispielgruppe
+existingMembers;Folgende Benutzer sind schon Mitglied dieser Gruppe:
+fileDeleted;{1} wurde gelöscht.
+fileDoc;Datei / Dokument
+fileIsEmpty;Die Datei <strong>{1}</strong> ist leer.
+fileName;Dateiname
+fileNotDeleted;{1} konnte nicht gelöscht werden.
+fileNotUploaded;Bei der Datei <b><i>{1}</i></b> ist ein Fehler aufgetreten.
+filesDocs;Dateien / Dokumente
+fileSizeExceeded;Die Datei <b><i>{1}</i></b> überschreitet die maximale Grösse für Bilddateien.
+filesUploaded;{1} Datei(en) hochgeladen.
+fileUpload;Datei hochladen
+filter;Filter
+firstName;Vorname
+folder;Ordner
+folderCreated;Der Ordner wurde erzeugt.
+folderName;Ordnername
+forgotPassword;Passwort vergessen?
+from;Ab
+group;Gruppe
+groupDeleted;Die Gruppe <b><i>{1}</i></b> wurde gelöscht.
+groupName;Gruppenname
+groupQuit;Sie haben die Gruppe <b><i>{1}</i></b> verlassen.
+groups;Gruppen
+guest;Gast
+guestAccess;Gästezugriff
+hideFileNames;Ohne Filenamen
+higherLevelRoles;Übergeordnete Rollen haben alle Berechtigungen der untergeordneten Rollen.
+hours;Stunden
+image;Bild
+imageDeleted;Das Bild wurde gelöscht.
+imageNotDeleted;Das Bild konnte nicht gelöscht werden.
+images;Bilder
+imgAfterSave;Bilder können erst nach der ersten Speicherung hinzugefügt werden.
+inAgendaListOnly;Nur in der Agendaliste sichtbar
+incorrectCode;Der Code war nicht korrekt.
+insertImage;Bild einfügen
+interval;Intervall
+invalidEmailAddress;Die Emailadresse <b><i>{1}</i></b> ist ungültig
+invalidNewPassword;Das neue Passwort ist ungültig.
+invalidPassword;Das Passwort ist ungültig.
+invited;Eingeladen
+keepLogin;Angemeldet bleiben
+language;Sprache
+languageAndKit;Programmiersprache, Development Kit
+lastName;Nachname
+lastUpdate;Letzte Aktualisierung
+line2;Adresszeile 2
+location;Ort
+loggedOut;Ausgeloggt
+loggedOutMessage;Sie haben sich erfolgreich ausgeloggt.
+login;Login
+loginFailed1;Die Anmeldung ist fehlgeschlagen, der Benutzername oder das Passwort ist nicht korrekt.
+loginFailed2;Die Anmeldung ist fehlgeschlagen, das Benutzerkonto <b><i>{1}</i></b> ist blockiert.
+logout;Logout
+mailServer;Mailserver
+mandatoryData;Obligatorische Daten
+maxCount;Max.Anzahl
+member;Mitglied
+memberCountExceeded;Fehler: Sie können nicht mehr als {1} Mitglieder, die sich noch nicht angemeldet haben, zu Ihren Gruppen hinzufügen. Bitte warten Sie bis sich mehr Mitglieder angemeldet haben, oder bis diese automatisch wieder entfernt wurden.
+memberNotSignedUp;Dieses Mitglied hat sich noch nicht angemeldet.
+memberRemoved;Das Mitglied <b><i>{1}</i></b> wurde entfernt.
+members;Mitglieder
+membersAdded;Folgende Mitglieder wurden hinzugefügt:
+membershipData;Mitgliedsdaten
+membersInputLabel;Emailadressen
+messageDeleted;Die Meldung vom <b><i>{1}</i></b> wurde gelöscht.
+messageNotDeleted;Die Meldung vom <b><i>{1}</i></b> konnte nicht gelöscht werden.
+messageNotSentToYou;Die Mitteilung konnte nicht an Ihre Email-Adresse gesendet werden.
+messages;Meldungen
+monthly;Monatlich
+newAccount;Neues Konto
+newAlbum;Neues Album
+newEntry;Neuer Eintrag
+newFolder;Neuer Ordner
+newGroup;Neue Gruppe
+newPassword;Neues Passwort
+newPost;Neuer Post
+no;Nein
+noAccess;Kein Zugriff
+noAdminQuit;Sie können eine Gruppe nicht verlassen solange Sie noch Administrator der Gruppe sind.
+noAlbums;Keine Alben
+noDate;Ohne Datum
+noDeleteWithMembers;Sie können eine Gruppe nicht löschen solange diese noch andere Mitglieder hat.
+noEmptyName;Der Name darf nicht leer sein.
+noEntries;Keine Einträge
+noFiles;Keine Dateien / Dokumente
+noGroupMemberships;Sie sind noch nicht Mitglied einer Gruppe.
+noGuestAccessToMemberData;Gäste haben keinen Zugriff auf die Mitgliederdaten.
+noGuestAccessToMessages;Gäste haben keinen Zugriff auf die Meldungen.
+noImages;Es gibt keine Bilder in diesem Album.
+noMembersSelected;Keine Mitglieder für diese Auswahl
+none;Keine
+noPosts;Keine Posts
+notCreated;{1} konnte nicht erzeugt werden.
+notLoggedIn;Nicht eingeloggt
+oldPassword;Altes Passwort
+onePerLine;1 pro Zeile
+openNewAccount;Wenn Sie noch kein Konto haben, können Sie <a href='/{1}/newAccount'>here</a> eines eröffnen.
+operatingSystem;Betriebssystem
+optionalAccountData;Mitglieder können den Lesezugriff auf ihre optionalen Kontodaten einschränken.
+optionalData;Optionale Daten
+parentFolder;Oberordner
+password;Passwort
+passwordChanged;Das Passwort wurde geändert.
+passwordChangeError;Das Passwort konnte nicht geändert werden.
+passwordConfirmationError;Die Bestätigung stimmt nicht mit dem Passwort überein.
+passwordNotSet;Das Passwort konnte nicht gesetzt werden.
+passwordRecovery;Wiederherstellung des Passworts
+passwordRequirement1;8 bis 30 Zeichen
+passwordRequirement2;mindestens ein Klein- und ein Grossbuchstabe
+passwordRequirement3;mindestens eine Ziffer oder ein Spezialzeichen (<span class='code'>{1}</span>)
+passwordRequirements;Passwortanforderungen
+passwordSent;Falls ein Konto mit dieser Email-Adresse existiert, wird nun ein temporäres Passwort gesendet.
+permission;Berechtigung
+permissions;Berechtigungen
+picker;Picker
+post;Post
+postDeleted;Der Post <b><i>{1}</i></b> wurde gelöscht.
+postNotDeleted;Der Post <b><i>{1}</i></b> konnte nicht gelöscht werden.
+posts;Posts
+postSaved;Der Post wurde gespeichert.
+preview;Vorschau
+previewTitle;Daten:
+publish;Publizieren
+published;Publiziert
+publishGroupPage;Öffentliche Adresse der Gruppenseite
+pwConfirmation;Passwort Bestätigung
+pwResetIntro;Wir haben einen Passwort-Resetantrag für Ihr Konto erhalten.
+pwResetIp;Der Request wurde von der IP-Adresse {1} gesendet.
+pwResetPassword;Ihr temporäres Passwort lautet: {1}
+pwResetSetRegular;Bitte setzen Sie innerhalb von {1} {2} wieder ein reguläres Passwort.
+pwResetSubject;Temporäres Passwort für {1}
+quit;Verlassen
+quitGroup;Gruppe verlassen
+read;Lesen
+readAccessGroups;Gruppen mit Lesezugriff auf diese optionalen Daten:
+readerView;Leseansicht
+readPermissions;Die Leseberechtigungen für Autoreninhalte können vom Autor geändert werden. Diese Tabelle definiert die Standardeinstellung.
+recurrence;Wiederholung
+regInfo;Registrierungsinformationen (optional):
+regInfoSaved;Die Registrierungsinformation wurde gespeichert.
+register;Registrieren
+registeredForGroup;Sie wurden registriert für: <i><b>{1}</b></i>
+registration;Registrierung
+remarks;Bemerkungen
+remove;Entfernen
+removeFromGroup;Aus der Gruppe entfernen
+removeMember;Mitglied entfernen
+reset;Zurücksetzen
+role;Rolle
+roleChanged;Die Rolle des Mitglieds <b><i>{1}</i></b> wurde geändert zu: {2}
+roleOf;Rolle von <b><i>{1}</i></b>
+rowsPerPage;Zeilen pro Seite:
+save;Speichern
+saveFailed;Die Daten konnten nicht gespeichert werden.
+saveOk;Die Daten wurden gespeichert.
+searchText;Suchtext ...
+selectImageFiles;Bilddateien auswählen (insgesamt max. {1} MB, max. {2} MB pro File):
+selectUploadFiles;Datei(en) auswählen (insgesamt max. {1} MB):
+self;Selbst
+selfRegistration;Selbst-Registrierung
+sendByEmail;Per Email versenden
+seriesStart;Start der Serie
+settingsSaved;Die Einstellungen wurden gespeichert.
+showFileNames;Mit Filenamen
+showMoreMessages;Mehr Meldungen anzeigen
+signedUp;Angemeldet
+sizeLimitExceeded;Achtung: Ihre Auswahl überschreitet die maximale Grösse!
+softwareComponents;{1} basiert auf folgenden Open Source Software
+softwareStack;{1} Softwarestack
+sorryForError;Leider ist ein Fehler aufgetreten.
+status;Status
+subject;Betreff
+submit;Absenden
+switzerland;Schweiz
+thanksForMessage;Danke für Ihre Meldung. Sie werden unsere Antwort so bald wie möglich erhalten.
+theAlbum;Das Album
+theFile;Die Datei
+theFolder;Der Ordner
+theGroup;Die Gruppe
+time;Zeit
+timeSpan;Zeitspanne
+timeTable;Zeitplan
+title;Titel
+to;bis
+toSignedupMembers;an alle angemeldeten Mitglieder
+until;Bis
+upload;Hochladen
+uploadFiles;Datei(en) hochladen
+uploadImages;Bilder hochladen
+useContactForm;Bitte benützen Sie dieses Formular um uns zu kontaktieren:
+useExistingAccount;Bitte verwenden Sie Ihr {1}-Konto für die Registrierung.
+user;Benutzer
+usersDeleted;{1} Benutzer gelöscht
+usersNotDeleted;Ein oder mehrere Benutzer konnten nicht gelöscht werden
+useYourOwnAccount;Es scheint dass Sie bereits ein Konto haben. Bitte verwenden Sie Ihr eigenes Konto.
+value;Wert
+viewAs;Ansicht als
+weekDays;Wochentage
+weekDaysList;Mo-Di-Mi-Do-Fr-Sa-So
+weekly;Wöchentlich
+write;Schreiben
+writePermissions;Schreibberechtigungen beinhalten das Hinzufügen, Ändern und Löschen von Daten.
+wrongOldPassword;Das alte Passwort ist nicht korrekt.
+wrongPassword;Das Passwort ist nicht korrekt.
+yearly;Jährlich
+yes;Ja
+yourGroupMemberships;Ihre Gruppenmitgliedschaften:
+yourMessage;Ihre Meldung an die Gruppe ...
+zipCode;Postleitzahl
