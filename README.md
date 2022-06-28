@@ -1,3 +1,3 @@
-# Groupizer Language Files
+# Groupizer
 
 [Website](https://www.groupizer.com)
